@@ -1,4 +1,5 @@
-![zebrafish](https://bio-atlas.psu.edu/zf/images/zebrafish.png)
+![7 dpf zebrafish](https://bio-atlas.psu.edu/zf/images/zebrafish.png)
+How about at 7dpf 
 
 # SlicerMorph_Bootcamp
 Slicermorph bootcamp
@@ -7,4 +8,4 @@ Slicermorph bootcamp
 ## Microanatomical annotation and segmentation using Slicer and Slicermorph
 <img src="https://raw.githubusercontent.com/SlicerMorph/Images/main/husky_small.png">
 Zebrafish 
-How about at 7dpf 
+
