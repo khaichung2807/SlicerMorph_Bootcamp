@@ -6,3 +6,5 @@ Slicermorph bootcamp
 
 ## Microanatomical annotation and segmentation using Slicer and Slicermorph
 <img src="https://raw.githubusercontent.com/SlicerMorph/Images/main/husky_small.png">
+Zebrafish 
+How about at 7dpf 
